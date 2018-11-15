@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/FocusingCellsWithSpecifiedValue/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/FocusingCellsWithSpecifiedValue/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/FocusingCellsWithSpecifiedValue/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/FocusingCellsWithSpecifiedValue/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Focus a Cell with the Specified Value
 
 
